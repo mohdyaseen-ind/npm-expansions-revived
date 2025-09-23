@@ -1,1 +1,2 @@
 Namma Package Manager
+Ninamman Package Manager
