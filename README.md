@@ -1,9 +1,4 @@
- _   _ ____  __  __     ____                                 _     _                 
-| \ | |  _ \|  \/  |   |  _ \ ___  ___ ___  _ __ ___  ___   | |   (_)_ __   ___  ___ 
-|  \| | | | | |\/| |   | |_) / _ \/ __/ _ \| '__/ _ \/ __|  | |   | | '_ \ / _ \/ __|
-| |\  | |_| | |  | |   |  __/  __/ (_| (_) | | |  __/\__ \  | |___| | | | |  __/\__ \
-|_| \_|____/|_|  |_|___|_|   \___|\___\___/|_|  \___||___/  |_____|_|_| |_|\___||___/
-                    |_____|                                                           h
+# npm-expansions-revived 🎉
 
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
