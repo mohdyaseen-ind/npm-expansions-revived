@@ -1,2 +1,3 @@
 Namma Package Manager
 Ninamman Package Manager
+Nintendo Package Manager
