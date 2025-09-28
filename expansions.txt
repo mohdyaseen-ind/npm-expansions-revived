@@ -4,3 +4,4 @@ Newton Package Manager
 Ninamman Package Manager
 Nikith Package Manager
 Nintendo Package Manager
+Non Package Max
